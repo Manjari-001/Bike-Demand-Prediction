@@ -9,7 +9,7 @@ Tags:
 Links:
 Project presentation: slideshow
 
-Dataset 1: Users Data Dataset 2: Ratings Data Dataset 3: Books Data
+Dataset 1: Seoul Bike Data
 
 Data Description:
 The source dataset is in ‘txt’ format with ‘.csv’. 
